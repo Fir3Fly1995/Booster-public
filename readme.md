@@ -1,0 +1,1 @@
+user needs ffmpeg installed and on PATH - Provide instructions for this. 
